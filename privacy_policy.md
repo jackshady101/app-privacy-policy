@@ -25,7 +25,13 @@ We want to inform you that whenever you use our Service, in a case of an error i
 
 ## Security
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. By using encryption.
+Data Security and Encryption
+We take the security of your information seriously. Although this app does not include messaging or chat features, we employ industry-standard security measures for all data handled:
+
+​Encryption in Transit: All information (such as login credentials and analytics data) is transmitted using Transport Layer Security (TLS) via HTTPS. This ensures that any data moving between your device and our service providers (Firebase and AdMob) is encrypted and protected from interception.
+​Data at Rest: Any information stored on our cloud servers (via Google Firebase) is protected by AES-256 encryption at rest. This means the data is stored in an unreadable format that can only be accessed by authorized systems.
+​No Third-Party Access: We do not provide unencrypted access to your data to any third parties. All data processing is done through secure, encrypted APIs provided by Google
+
 
 ## Children’s Privacy
 
