@@ -1,3 +1,22 @@
+
+<style>
+  /* Hides the GitHub Project Name header */
+  header {
+    display: none !important;
+  }
+  
+  /* Extra safeguard for different themes */
+  .site-header {
+    display: none !important;
+  }
+</style>
+
+
+
+
+
+
+
 # Privacy Policy
 
 **Effective Date:** 12 Jan 2026
