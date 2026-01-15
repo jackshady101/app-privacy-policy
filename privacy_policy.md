@@ -19,7 +19,9 @@ The app does use third-party services that may collect information used to ident
 
 We want to inform you that whenever you use our Service, in a case of an error in the app, we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
-1. ​This Privacy Policy explains how JS Tuners ("we", "us", or "our") handles user information for the Ludo mobile application. We are committed to protecting your privacy and ensuring transparency in how we collect and use your data.
+1. Data 
+
+​This Privacy Policy explains how JS Tuners ("we", "us", or "our") handles user information for the Ludo mobile application. We are committed to protecting your privacy and ensuring transparency in how we collect and use your data.
 
 ​2. Data We Collect
 
@@ -59,10 +61,6 @@ We want to inform you that whenever you use our Service, in a case of an error i
 
 ​For any questions regarding this policy or your data rights, contact us at:
 * [Contact Support: sigmastroke101@gmail.com](mailto:sigmastroke101@gmail.com)
-
-## Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 ## Contact Us
 If you want your data to be deleted , Please contact us at ** sigmastroke101@gmail.com ** or * [Request Account Deletion](https://jackshady101.github.io/Delete/delete-account.html)
