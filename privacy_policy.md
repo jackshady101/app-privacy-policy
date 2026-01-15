@@ -17,8 +17,11 @@ layout: null
   a:hover { text-decoration: underline; }
 </style>
 
-# Privacy Policy
-... (rest of your text)
+
+
+
+
+
 
 # Privacy Policy
 
