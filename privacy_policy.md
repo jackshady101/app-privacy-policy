@@ -55,7 +55,7 @@ We want to inform you that whenever you use our Service, in a case of an error i
 
 ​7. Children's Privacy
 
-​Our App does not knowingly collect personal data from children under the age of 13. If you believe we have inadvertently collected such data, please contact us immediately.
+​Our App does not knowingly collect personal data from children under the age of 13. If you believe we have inadvertently collected such data, please contact us immediately for data deletion.
 
 ​8. Contact Information
 
