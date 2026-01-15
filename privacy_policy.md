@@ -1,13 +1,19 @@
 
 <style>
-  /* Hides the GitHub Project Name header */
-  header {
-    display: none !important;
-  }
-  
-  /* Extra safeguard for different themes */
-  .site-header {
-    display: none !important;
+  /* Target EVERY possible header name used by GitHub Themes */
+  header, 
+  .site-header, 
+  #header, 
+  .page-header,
+  .wrapper header,
+  h1.project-name,
+  a#project_title,
+  .inner h1 {
+    display: none !important; 
+    visibility: hidden !important;
+    height: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
   }
 </style>
 
