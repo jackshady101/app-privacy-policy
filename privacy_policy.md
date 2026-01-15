@@ -20,7 +20,7 @@ The app does use third-party services that may collect information used to ident
 We want to inform you that whenever you use our Service, in a case of an error in the app, we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
 
-​This Privacy Policy explains how JS Tuners ("we", "us", or "our") handles user information for the Ludo mobile application. We are committed to protecting your privacy and ensuring transparency in how we collect and use your data.
+1. ​This Privacy Policy explains how JS Tuners ("we", "us", or "our") handles user information for the Ludo mobile application. We are committed to protecting your privacy and ensuring transparency in how we collect and use your data.
 
 ​2. Data We Collect
 ​We collect only the minimum data required to provide a functional and synchronized gaming experience:
@@ -43,8 +43,6 @@ We want to inform you that whenever you use our Service, in a case of an error i
 ​In-App Deletion: You can initiate a deletion request through the "Settings" menu within the Ludo app.
 ​Web Deletion Request: If you have uninstalled the app, you can request data deletion via our web link: (https://jackshady101.github.io/Delete/delete-account.html.)
 * [Request Account Deletion](https://jackshady101.github.io/Delete/delete-account.html)
-
-​Scope of Deletion: Upon a valid request, we will permanently delete your authentication record and all associated game data from our servers within 30 days.
 
 ​6. Security
 ​We use HTTPS encryption to protect your data while it is being transmitted from your device to our servers. Access to user data is strictly limited to authorized processing for app functionality.
