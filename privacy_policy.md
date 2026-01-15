@@ -90,4 +90,4 @@ We want to inform you that whenever you use our Service, in a case of an error i
 ## Contact Us
 If you want your data to be deleted , Please contact us at ** sigmastroke101@gmail.com ** or  [Request Account Deletion](https://jackshady101.github.io/Delete/delete-account.html)
 
-If you have any questions or suggestions about our Privacy Policy, please contact us at ** sigmastroke101@gmail.com **.
+If you have any questions, please contact us at ** sigmastroke101@gmail.com **.
