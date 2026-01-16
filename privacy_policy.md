@@ -67,6 +67,7 @@ We want to inform you that whenever you use our Service, in a case of an error i
 ​Your data is processed by trusted third-party services that act as data processors under our instruction:
 ​Firebase (Google): We use Firebase Authentication and Firebase Database to store your profile and game data securely.
 ​Google Play Services: Used for core app functionality and system updates.
+
 ​5. Data Deletion and Account Removal
 
 ​In accordance with Google Play policies, we provide users with full control over their data:
