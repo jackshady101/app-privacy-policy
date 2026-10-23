@@ -27,7 +27,7 @@ layout: null
 
 **Effective Date:** 12 Jan 2026
 
-**[JS Tuners]** built the **[Ludo]** Game.
+**[JS Tuners]** built the **[Bhagwat Gita hindi audio, This app]** Game.
 
 This page informs visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decides to use our Service.
 
